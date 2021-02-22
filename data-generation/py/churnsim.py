@@ -229,7 +229,7 @@ class ChurnSimulation:
 
 if __name__ == "__main__":
 
-    model_name = 'churn_data'
+    model_name = 'socialnet7'
     if len(sys.argv) >= 2:
         model_name = sys.argv[1]
 
