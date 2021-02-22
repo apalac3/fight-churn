@@ -17,7 +17,7 @@ from postgres import Postgres
 import os
 import sys
 
-schema_name='churn_data'
+schema_name='socialnet7'
 if len(sys.argv) >= 2:
     schema_name = sys.argv[1]
 
